@@ -1,8 +1,8 @@
-# Android Project 2 - *Recycler View*
+# Android Project 2 - *Wish List*
 
 Submitted by: **Ifé-Michaela Spencer**
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+**Wish List** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **X** hours spent in total
 
